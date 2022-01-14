@@ -1,0 +1,13 @@
+.Cartao {
+    margin: 20px;
+    border: 3px black;
+    background-color: white;
+}
+
+.Titulo {
+    color: black;
+}
+
+.Conteudo {
+    color: hotpink;
+}
